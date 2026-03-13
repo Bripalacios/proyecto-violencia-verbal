@@ -1,0 +1,7 @@
+flask
+flask-sock
+flask-cors
+python-dotenv
+websocket-client
+PyJWT
+toml
