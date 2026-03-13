@@ -5,3 +5,5 @@ python-dotenv
 websocket-client
 PyJWT
 toml
+transformers
+requests
